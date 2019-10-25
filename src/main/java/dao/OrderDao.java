@@ -8,6 +8,7 @@ import org.apache.ibatis.annotations.SelectKey;
 
 import com.imooc.miaosha.domain.MiaoshaOrder;
 import com.imooc.miaosha.domain.OrderInfo;
+//this contain the insert function of the website to database
 
 @Mapper
 public interface OrderDao {
